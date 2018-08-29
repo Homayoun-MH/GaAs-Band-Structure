@@ -2,8 +2,8 @@ GaAs-Band-Structure
 ===================
 In the name of God
 
-This is a class project written for Quantum Transport course;
-Which is based on the following book and it's matlab code appendix: 
+It was a project written for Quantum Transport course;
+Which is based on the following book and it's appendix: 
   "Quantum Transport:Atom to Transistor" by Professor Supriyo Datta.
 
 E(k) is calculated by finding the eigenvalues of the matrix in Eq. (5.3.3) for each value of k
